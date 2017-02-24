@@ -1,0 +1,15 @@
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\bin\Debug\Example.exe.config
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\bin\Debug\Example.exe
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\bin\Debug\Example.pdb
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.CustomerRecord.resources
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.EPLG.resources
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.Form1.resources
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.Properties.Resources.resources
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.Warehouse.resources
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.WPDT.resources
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.csproj.GenerateResource.Cache
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.exe
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.pdb
+c:\users\malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.searchWarehouse.resources
+C:\Users\Malo\documents\visual studio 2015\Projects\Example\Example\obj\Debug\Example.InsertCustomerRecord.resources
